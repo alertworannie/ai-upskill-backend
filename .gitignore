@@ -50,3 +50,7 @@ application-*.properties
 application-*.yml
 !application.properties
 !application.yml
+
+# Database files
+ai-upskill-db.mv.db
+ai-upskill.db
